@@ -1,0 +1,55 @@
+body, html {
+  height: 90%;
+  margin: 0;
+}
+
+.form {
+  display: flex;
+  height: 50vh;
+  margin: 0;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.chart {
+  display: flex;
+  height: 50vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.blackchart {
+  display: flex;
+  flex-direction: column;
+  height: 50vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.transaction-list {
+  overflow: hidden;
+  height: 100%;
+  margin: 0;
+}
+
+
+
+
+/* .balance {
+  margin-top: 2em;
+
+}
+
+.income-expenses {
+  margin-top: 2em;
+
+} */
+
+.cifras {
+  margin-top: 2em;
+  height: 10vh;
+}
+
+
